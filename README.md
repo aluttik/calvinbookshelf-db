@@ -53,3 +53,5 @@ As of right now, the data scraping is a two-step process:
 1. `scrape_classlist.py` is run to find a classlist for every term. It dumps its results to `data/`.
 
 2. `scraper.py` is run to find book data for each of the files in `data/`. It dumps its results to `db/`.
+
+Make sure that you've activated your virtual environment before running any scripts.
