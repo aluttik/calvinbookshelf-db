@@ -10,7 +10,7 @@ This repository includes various scripts that were used to scrape class and book
 
 Enter the directory that you use for git projects, then run:
 ```bash
-$ git clone https://github.com/karishay/advocate_calculator
+$ git clone https://github.com/cs262teamd/calvinbookshelf-db
 ```
 
 ### 2. Set up your Virtual Environment
