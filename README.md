@@ -48,8 +48,8 @@ Don't forget to deactivate your virtual environment when you're done working in 
 
 ## Scraping data
 
-As of right now, the data scraping is a two-step process.
+As of right now, the data scraping is a two-step process:
 
-1. Firstly, scrape_classlist.py must be run to find a list of classes for every term. It dumps this list into the `data/` folder.
+1. `scrape_classlist.py` is run to find a classlist for every term. It dumps its results to `data/`.
 
-2. Secondly, database_filler.py is run to find book data for each of the files in `data/`. It dumps its results to `db/`.
+2. `scraper.py` is run to find book data for each of the files in `data/`. It dumps its results to `db/`.
