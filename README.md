@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repository includes various scripts that were used to scrape class and book data for calvinbookshelf, as well as the data that found.
+This repository includes various scripts that were used to scrape class and book data for calvinbookshelf.
 
 ## Installation
 
