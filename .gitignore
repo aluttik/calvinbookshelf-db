@@ -1,0 +1,8 @@
+backups
+venv
+*.pyc
+*.save
+*~
+*.bak
+data/*.json
+db/*.json
